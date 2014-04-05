@@ -1,0 +1,29 @@
+.wrapper {
+	width: 600px;
+	margin: 10px auto;
+	border: 1px solid black;
+}
+
+.box {
+	width: 600px;
+	height: 600px;
+}
+
+button {
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+
+/*.row {
+	display: inline;
+	width: 100%;
+}*/
+
+.square {
+	width: 35.5px;
+	height: 35.5px;
+	border: 1px solid black;
+	float: left;
+}
