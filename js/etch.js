@@ -5,7 +5,6 @@ $(document).ready(function () {
 	});
 	$("button").on("click", function () {
 		var selectNum = prompt("Please enter number for grid size");
-		$("div").removeClass("coloured");
 		$(".square").remove();
 		addDiv(selectNum);
 	});

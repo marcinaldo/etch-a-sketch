@@ -1,7 +1,6 @@
 .wrapper {
 	width: 600px;
 	margin: 10px auto;
-	border: 1px solid black;
 }
 
 .box {
@@ -10,21 +9,18 @@
 }
 
 button {
-	position: relative;
 	text-align: center;
 	margin: 0 auto;
 	display: block;
+	padding: 5px 10px;
+	background: #C3DFF7;
+	border: 1px solid #688CC9;
 }
-
-/*.row {
-	display: inline;
-	width: 100%;
-}*/
 
 .square {
 	width: 35.5px;
 	height: 35.5px;
-	border: 1px solid black;
+	border: 1px solid #ccc;
 	float: left;
 }
 
